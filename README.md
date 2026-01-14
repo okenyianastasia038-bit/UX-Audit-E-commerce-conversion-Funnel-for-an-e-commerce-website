@@ -2,3 +2,7 @@
 This is a user experience evaluation of an e-commerce site Jiji. Jiji is a major Pan-African online marketplace and classifieds platform connecting millions of buyers and sellers for free, allowing users to easily find or sell new and used goods, jobs, and services across various categories, acting as a facilitator rather than a direct seller, with a strong presence in countries like Nigeria, and helping individuals and businesses thrive by providing broad reach without physical stores. This evaluation is guided by the Ux Heuristic Evaluation (NNGroups) and   conversion psychology principles.
 
 To see the work I had on the Jiji Conversion Funnel Mapping, see FigJam. Click the link https://www.figma.com/board/bchx2KeGSV4qqEH8tSkbaw/Untitled?node-id=0-1&t=bNmkUgigr7jaZ5Oz-1
+
+
+For the figma file, clivk the link
+https://www.figma.com/design/jaSKLvq2DdfiSdNNAfX29F/Intern-World?node-id=217-89
